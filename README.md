@@ -4,7 +4,7 @@
 Hello! I’m **M.A. Shehnai Hansika**, a recent graduate in Network and Security Technology from the South Eastern University of Sri Lanka. I’m passionate about **Linux**, **DevOps**, and **cloud technologies**, and I’m on a journey to become a skilled DevOps engineer.  
 
 ## About Me 🚀  
-- 🔭 **Currently Learning**: Docker, Python, and DevOps tools.  
+- 🔭 **Currently Learning**: Kubernetes.  
 - 🌱 **Interests**: Linux systems administration, containerization, cloud computing, and automation.  
 - 📝 **Blogging**: I write about my learning journey and share knowledge on [Medium](https://medium.com/@ma.shehanihansika).  
 - 💼 **Experience**: Completed a 6-month internship at Sri Lanka Telecom in network operations.  
