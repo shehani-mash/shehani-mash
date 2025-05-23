@@ -7,13 +7,13 @@ Hello! I’m **M.A. Shehnai Hansika**, a recent graduate in Network and Security
 - 🔭 **Currently Learning**: Kubernetes.  
 - 🌱 **Interests**: Linux systems administration, containerization, cloud computing, and automation.  
 - 📝 **Blogging**: I write about my learning journey and share knowledge on [Medium](https://medium.com/@ma.shehanihansika).  
-- 💼 **Experience**: Completed a 6-month internship at Sri Lanka Telecom in network operations.  
+- 💼 **Experience**: Completed a 6-month internship at Sri Lanka Telecom in network support.  
 - 🎯 **Goal**: To become an expert DevOps engineer and contribute to innovative tech solutions.  
 
 ## Skills & Certifications 🛠️  
 - **Operating Systems**: Ubuntu, CentOS.
-- **DevOps Tools**: Docker, Git, GitHub, GitLab.  
-- **Cloud Platforms**: AWS (IAM, EC2, S3), Oracle Cloud Infrastructure.  
+- **DevOps Tools**: Docker, Git, GitHub.  
+- **Cloud Platforms**: AWS (IAM, EC2, S3, VPC).  
 - **Certifications**:  
   - Oracle Cloud Infrastructure 2024 Certified Foundations Associate.  
   - Docker Basics Certification (Udemy).  
