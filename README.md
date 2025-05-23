@@ -1,7 +1,7 @@
 
 # Hi There 👋  
 
-Hello! I’m **M.A. Shehnai Hansika**, a recent graduate in Network and Security Technology from the South Eastern University of Sri Lanka. I’m passionate about **Linux**, **DevOps**, and **cloud technologies**, and I’m on a journey to become a skilled DevOps engineer.  
+I'm a passionate, motivated individual focused on DevOps and Cloud solutions, I currently thrive on continuous self learning and growth. I value clear communication and teamwork, and always aim to deliver top-notch results through innovative solutions as a smart thinker. I aim to apply my technical skills in a DevOps role to contribute to scalable infrastructure success and grow into an expert DevOps Engineer.  
 
 ## About Me 🚀  
 - 🔭 **Currently Learning**: Kubernetes.  
@@ -12,7 +12,7 @@ Hello! I’m **M.A. Shehnai Hansika**, a recent graduate in Network and Security
 
 ## Skills & Certifications 🛠️  
 - **Operating Systems**: Ubuntu, CentOS.
-- **DevOps Tools**: Docker, Git, GitHub.  
+- **DevOps Tools**: Docker, Git, GitHub, Terraform.  
 - **Cloud Platforms**: AWS (IAM, EC2, S3, VPC).  
 - **Certifications**:  
   - Oracle Cloud Infrastructure 2024 Certified Foundations Associate.  
